@@ -1,0 +1,42 @@
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\ApplicationInsights.config
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\491 Prototype.dll.config
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\491 Prototype.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\491 Prototype.pdb
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Antlr3.Runtime.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.Web.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Newtonsoft.Json.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Helpers.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Mvc.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Optimization.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Razor.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\WebGrease.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Helpers.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Mvc.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Optimization.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.Razor.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Antlr3.Runtime.pdb
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Newtonsoft.Json.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\bin\Microsoft.AI.Web.xml
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\obj\Debug\491 Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\obj\Debug\491 Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\obj\Debug\491 Prototype.dll
+C:\Users\Abram Villanueva\source\repos\491 Prototype\491 Prototype\obj\Debug\491 Prototype.pdb
